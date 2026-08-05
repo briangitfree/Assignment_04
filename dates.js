@@ -1,12 +1,6 @@
-//STEP 1
-
-//STEP 2
-
-//STEP 3
-
-//STEP 4
-
-//STEP 5
+// Assignment 4 - JavaScript Dates
+// Comp 649 - JavaScript II
+// Author: Brian Dinh
 
 
 

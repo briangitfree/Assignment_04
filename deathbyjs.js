@@ -1,13 +1,6 @@
-//STEP 1
-
-//STEP 2
-
-//STEP 3
-
-//STEP 4
-
-//STEP 5
-
+// Assignment 4 - JavaScript Death by JS
+// Comp 649 - JavaScript II
+// Author: Brian Dinh
 
 
 
@@ -19,7 +12,8 @@ function alphabetOrder(str) {
     return str.split("").sort().join("");
 }
 
-console.log(alphabetOrder("webmaster")); // abeemrstw
+console.log(alphabetOrder("webmaster")); 
+// abeemrstw
 
 
 //STEP 2
@@ -33,7 +27,8 @@ function capitalizeWords(str) {
         .join(" ");
 }
 
-console.log(capitalizeWords("the quick brown fox")); // The Quick Brown Fox
+console.log(capitalizeWords("my lovely fox")); 
+// my lovely fox
 
 
 //STEP 3
